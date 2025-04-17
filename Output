@@ -1,0 +1,6 @@
+The occupation with the lowest average sleep duration:  Sales Representative
+Occupation that had the lowest quality of on average:  Sales Representative
+Ratio of app users in normal BMI category have been diagnosed with Insomnia:  0.04
+Ratio of people who are overweight and have insomnia:  0.43
+Ratio of people who are obese and have insomnia:  0.4
+{'Normal': 0.04, 'Overweight': 0.43, 'Obese': 0.4}
